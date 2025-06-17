@@ -7,4 +7,4 @@ I'm a technical writer with experience in tutorials, software documentation, and
 - [Beginner Guide to Git & GitHub](link)
 
 📬 Contact Me
-[LinkedIn](your-link) | [Email](simonpotenxial@gmail.com)
+[LinkedIn](your-link) | [simonpotenxial@gmail.com]
