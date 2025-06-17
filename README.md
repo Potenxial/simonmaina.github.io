@@ -6,5 +6,5 @@ I'm a technical writer with experience in tutorials, software documentation, and
 - [Mock API Documentation: WeatherNow API](link)
 - [Beginner Guide to Git & GitHub](link)
 
-📬 Contact Me
+###📬 Contact Me
 [LinkedIn](your-link) | [simonpotenxial@gmail.com]
